@@ -11,10 +11,10 @@ Este proyecto es un juego simple desarrollado con Phaser 3, un framework de Java
    - Usa las teclas de flecha ← y → para mover al jugador izquierda y derecha.
    - Usa la tecla de flecha ↑ para saltar.
    - Presiona la tecla "Espacio" para pausar y reanudar el juego.
-   - Presiona Enter si pierdes la partida para comenzar una nueva.
+   - Presiona "Enter" si pierdes la partida para comenzar una nueva.
 
 2. **Objetivo:**
-   - Recolecta todas las estrellas para aumentar tu puntuación.
+   - Recolecta todas las monedas para aumentar tu puntuación.
    - Evita las bombas; si tocas una bomba, el juego terminará.
 
 3. **Puntuación:**
